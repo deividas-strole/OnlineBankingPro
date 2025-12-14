@@ -1,13 +1,12 @@
-# Assignment 13 starter
+## 📫 Connect
 
-To use this template:
+- [DeividasStrole.com](https://deividasstrole.com)  
+- [LinkedIn](https://linkedin.com/in/deividas-strole)  
+- [YouTube](https://youtube.com/@deividas-strole)  
+- [Dev.to](https://dev.to/deividas-strole)  
+- [Medium](https://medium.com/@deividas-strole)  
+- [X](https://x.com/deividasstrole)  
 
-- Click on the green `Use this template` button.
+⭐ If you enjoyed this project, consider starring the repository to support the work of **Deividas Strole**.
 
-- Name your new project `Assignment13` or whatever convention you use to name your assignment projects.
-
-- This will create a repository on github for your assignment. Clone this remote repository down to your local computer, as you would clone any other repository. Place it on your computer in the same folder as your other coderscampus assignments.
-
-- Import into Eclipse or open with VSCode or IntelliJ as you would any other Spring boot maven project.
-
-__You now have the starting code for Assignment 13. Follow instructions in the assignment definition to complete this project.__
+© 2025 Deividas Strole. All rights reserved.
